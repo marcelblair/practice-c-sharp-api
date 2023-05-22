@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1705.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice-c-sharp-api", "practice-c-sharp-api\practice-c-sharp-api.csproj", "{EE208539-827B-43AE-A10D-A6A16A34ADCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE208539-827B-43AE-A10D-A6A16A34ADCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE208539-827B-43AE-A10D-A6A16A34ADCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE208539-827B-43AE-A10D-A6A16A34ADCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE208539-827B-43AE-A10D-A6A16A34ADCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9C0C83-4908-44BD-8A50-356FC58B5433}
+	EndGlobalSection
+EndGlobal
